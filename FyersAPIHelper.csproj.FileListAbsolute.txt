@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\bin\Debug\FyersAPIHelper.dll
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\bin\Debug\FyersAPIHelper.pdb
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\bin\Debug\FyersAPI.dll
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\bin\Debug\WebSocket4Net.dll
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\obj\Debug\FyersAPIHelper.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\obj\Debug\FyersAPIHelper.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\obj\Debug\FyersAPIHelper.csproj.CopyComplete
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\obj\Debug\FyersAPIHelper.dll
+C:\Users\lenovo\Desktop\FyersAPIHelper\FyersAPIHelper\obj\Debug\FyersAPIHelper.pdb
